@@ -1,0 +1,35 @@
+th{
+    color:blue;
+}
+
+.obligatoire {color: red;}
+
+p{
+    color :red;
+    text-align: center;
+    
+}
+table{
+    border-collapse: collapse;
+  }
+  
+  th, td{
+    border: 1px solid black;
+    padding: 10px;
+    
+  }
+  
+.obbb{
+    color:blueviolet;
+}
+table{
+  width: 20%;
+}
+button{
+  background-color: rgb(46, 185, 46);
+  
+}
+h4{
+  color:red;
+  text-align: center;
+}

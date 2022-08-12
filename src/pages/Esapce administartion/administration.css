@@ -1,0 +1,41 @@
+label{
+    color: black;
+    margin: 10px 30px;
+}
+
+.form{
+    margin: 100px auto;
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    width: 700px;  
+}
+
+input{
+    display: block;
+    height: 30px;
+    text-align: center;
+    margin: 10px 10px 0;
+}
+p{
+    color: black;
+}
+h1{
+    text-align: center;
+    color: #2ea3dd;
+    text-decoration: underline;
+    font-weight:bold;
+}
+button{
+    border: 0;
+    margin: 10px 100px 0;
+    background-color: #2ea3dd;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+    padding: 10px 25px;
+    margin-right: 1rem;
+    text-decoration: none;
+    
+}
